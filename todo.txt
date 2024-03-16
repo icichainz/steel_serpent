@@ -1,0 +1,1 @@
+- be able to return the server ok template when the server is working and not ok when its not.
