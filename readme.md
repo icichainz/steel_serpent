@@ -1,1 +1,1 @@
-An attempte to write a web server in rust .
+A proof of concept webserver implementation in rust. .
