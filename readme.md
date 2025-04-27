@@ -1,1 +1,1 @@
-A proof of concept webserver implementation in rust. .
+A proof of concept webserver implementation in rust.
